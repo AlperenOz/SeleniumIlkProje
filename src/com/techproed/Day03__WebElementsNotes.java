@@ -31,6 +31,8 @@ public class Day03__WebElementsNotes {
 
     1) id
     if element have id attribute, we can use it to find them
+    the fastest and the most secure one
+    use id if available
     e.g.
     <a id="sign-in" class="nav-item nav-link"
      data-test="sign-in" href="/sign_in">Sign in</a>
