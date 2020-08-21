@@ -1,6 +1,6 @@
 package com.techproed;
 
-public class Day04_Notes {
+public class Day04__Notes {
     /*
     NoSuchElementException :
     id yanlis locate edilince olusur
@@ -30,8 +30,6 @@ public class Day04_Notes {
 
      == By.tagName ==
      use the tagName
-
-
 
      */
 }

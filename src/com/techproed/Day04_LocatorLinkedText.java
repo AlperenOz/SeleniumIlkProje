@@ -26,7 +26,7 @@ public class Day04_LocatorLinkedText {
         //partialLinkText
         //didnt even write "Home", part of the link is enough
         //we can even only write "H",bc theres no other link that contains "H"
-        WebElement homeLink = driver.findElement(By.partialLinkText("ome"));
+        WebElement homeLink = driver.findElement(By.partialLinkText("H"));
         homeLink.click();
 
     }
