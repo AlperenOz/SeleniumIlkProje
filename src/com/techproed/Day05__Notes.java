@@ -59,6 +59,9 @@ public class Day05__Notes {
     when className has 2 values inside of it, we cant use className locator.
     so by using cssClass we can call any class with any name
 
+    EGER CLASS NAME LERI ARASINDA BOSLUKLAR VARSA BOSLUKLARI NOKTAYA CEVIRMEN GEREK!!
+    e.g. ".a-section a-spacing-small a-spacing-top-small" >> "a-section.a-spacing-small.a-spacing-top-small"
+
     class value >> .value
     id value    >> #value
 
